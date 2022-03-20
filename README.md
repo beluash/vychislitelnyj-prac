@@ -1,3 +1,1 @@
-# vychislitelnyj-prac
-
 Homework
